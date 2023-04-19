@@ -1,0 +1,49 @@
+.Footer{
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 30px;
+}
+.FooterContent{
+    display: flex;
+    max-width: 1080px;
+    margin: auto;
+    min-width: 980px;
+    justify-content: space-between;
+}
+
+#footerimage{
+    height: 42px;
+    padding-right: 15px;
+}
+#footerSocialmediaIcons{
+    height: 20px;
+    padding-right: 15px;
+}
+#apps{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#SocialmediaIcons{
+    display: flex;
+    padding-top: 20px;
+}
+#original_Text{
+    display: flex;
+    flex-direction: column;
+}
+#Return,#original{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 15px 0 30px;
+}
+#originalImage,#ReturnImage{
+    width: 48px;
+    height: 40px;
+}
+#heading{
+  font-weight: 700;
+}
+
